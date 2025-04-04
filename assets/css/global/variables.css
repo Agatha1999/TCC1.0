@@ -1,0 +1,10 @@
+@import url('/assets/css/global/font.css');
+
+:root {
+    --bistre: #4a3124;
+    --dun: #E0C8B1;
+    --linen: #FFF6EB;
+    --powder-blue: #9EB9D4;
+    --yale-blue: #103A71;
+    --logo-font: "Logo-Fonte";
+}
